@@ -10,14 +10,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **EKS Project**
- 
- 🌱 I’m expanding my knowledge on **Terraform, Kubenetes, CI/CD**
+ 🌱 I’m currently expanding my knowledge on **ArgoCD, Prometheus and Grafana**
 
  </div>
  
 <div align="center"> 
-  <a href="amirbile@gmail.com">
+  <a href="mailto:amirbile@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
